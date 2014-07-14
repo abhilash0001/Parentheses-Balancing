@@ -40,6 +40,8 @@ namespace Balanced
                         break;
                     case ')':
                         return inParenthesis;
+                    default:
+                        break;
                 }
             }
             return !inParenthesis;
