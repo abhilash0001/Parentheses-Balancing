@@ -1,0 +1,6 @@
+C:\Clients\_Projects\Balanced\Balanced\bin\Debug\Balanced.exe.config
+C:\Clients\_Projects\Balanced\Balanced\bin\Debug\Balanced.exe
+C:\Clients\_Projects\Balanced\Balanced\bin\Debug\Balanced.pdb
+C:\Clients\_Projects\Balanced\Balanced\obj\Debug\Balanced.csprojResolveAssemblyReference.cache
+C:\Clients\_Projects\Balanced\Balanced\obj\Debug\Balanced.exe
+C:\Clients\_Projects\Balanced\Balanced\obj\Debug\Balanced.pdb
